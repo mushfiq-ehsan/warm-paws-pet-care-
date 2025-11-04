@@ -31,8 +31,10 @@ const MyProfile = () => {
     // const photo = form.photo.value;
     // console.log(email, photo);
 
-    if (name.length  > 15) {
-      return toast.error("⚠️ That name is too long — try 14 characters or less.");
+    if (name.length  > 14) {
+      console.log("clicked");
+      
+      return toast.error("⚠️ That name is too long — try 15 characters or less.");
     }
 
 
@@ -154,8 +156,11 @@ const MyProfile = () => {
           </div>
         </dialog>
       </div>
+      
     </div>
   );
 };
 
 export default MyProfile;
+
+
