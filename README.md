@@ -6,9 +6,10 @@ Built with a clean UI, smooth UX, and powerful tools like React, Firebase, and T
 ---
 
 ## 🌐 **Live Demo**
-👉 **Live Project:** [https://your-live-link-here.com](https://pet-care-service-e83d1.web.app/) 
-
-👉 **Repository:** https://github.com/mushfiq0000/warm-paws-pet-care-.git
+<p align="center">
+  <a href="https://pet-care-service-e83d1.web.app/">Live Website</a> | 
+  <a href="https://github.com/mushfiq0000/warm-paws-pet-care-.git">GitHub Repository</a>
+</p> **Repository:** https://github.com/mushfiq0000/warm-paws-pet-care-.git
 
 ---
 
@@ -18,8 +19,11 @@ The platform includes user authentication, password reset, service browsing, val
 
 ---
 
-## 🖼️ **Screenshot**
-![Project Screenshot](./public/0.png)
+<p align="center">
+  <img src="./public/0.png" alt="Hero IO Screenshot" width="700"/>
+</p>
+
+---
 
 
 ---
