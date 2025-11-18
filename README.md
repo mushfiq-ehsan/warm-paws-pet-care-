@@ -9,7 +9,6 @@ Built with a clean UI, smooth UX, and powerful tools like React, Firebase, and T
 <p align="center">
   <a href="https://pet-care-service-e83d1.web.app/">Live Website</a> | 
   <a href="https://github.com/mushfiq0000/warm-paws-pet-care-.git">GitHub Repository</a>
-</p> **Repository:** https://github.com/mushfiq0000/warm-paws-pet-care-.git
 
 ---
 
